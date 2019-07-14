@@ -1,6 +1,6 @@
 #Programming Assignment 
 #Solution:
-1. How to use these functions for testing the lexical scoping??
+1.How to use these functions for testing the lexical scoping??
 
 1.1 Create an object which will store the contenct of the matrix, his inverse, and functions to access them
 > wrapper= makeCacheMatrix();
